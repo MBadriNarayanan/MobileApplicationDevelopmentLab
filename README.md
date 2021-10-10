@@ -1,2 +1,2 @@
 # MobileApplicationDevelopmentLab
-Mobile Application Development Lab done during VII Semester
+Mobile Application Development Lab work done during VII Semester
